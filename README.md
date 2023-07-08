@@ -1,6 +1,3 @@
-#MyFirstWebsite
-
-<!DOCTYPE html>
 <html lang="en" style="background-color: goldenrod;">
 <head>
     <meta charset="UTF-8">
